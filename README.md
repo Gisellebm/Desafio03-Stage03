@@ -1,6 +1,6 @@
 # Desafio03-Stage03
 
-![preview](Space Cream.png)
+![preview](SpaceCream.png)
 
 > Trilha Explorer
 
